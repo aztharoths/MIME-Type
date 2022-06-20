@@ -1,0 +1,399 @@
+{
+    "application": {
+        "abw": {
+            "MIME-Type": "application/x-abiword",
+            "extension": ".abw",
+            "kind-of-document": "AbiWord document"
+        },
+        "arc": {
+            "MIME-Type": "application/x-freearc",
+            "extension": ".arc",
+            "kind-of-document": "Archive document (multiple files embedded)"
+        },
+        "azw": {
+            "MIME-Type": "application/vnd.amazon.ebook",
+            "extension": ".azw",
+            "kind-of-document": "Amazon Kindle eBook format"
+        },
+        "bin": {
+            "MIME-Type": "application/octet-stream",
+            "extension": ".bin",
+            "kind-of-document": "Any kind of binary data"
+        },
+        "bz": {
+            "MIME-Type": "application/x-bzip",
+            "extension": ".bz",
+            "kind-of-document": "BZip archive"
+        },
+        "bz2": {
+            "MIME-Type": "application/x-bzip2",
+            "extension": ".bz2",
+            "kind-of-document": "BZip2 archive"
+        },
+        "csh": {
+            "MIME-Type": "application/x-csh",
+            "extension": ".csh",
+            "kind-of-document": "C-Shell script"
+        },
+        "doc": {
+            "MIME-Type": "application/msword",
+            "extension": ".doc",
+            "kind-of-document": "Microsoft Word"
+        },
+        "docx": {
+            "MIME-Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "extension": ".docx",
+            "kind-of-document": "Microsoft Word (OpenXML)"
+        },
+        "eot": {
+            "MIME-Type": "application/vnd.ms-fontobject",
+            "extension": ".eot",
+            "kind-of-document": "MS Embedded OpenType fonts"
+        },
+        "epub": {
+            "MIME-Type": "application/epub+zip",
+            "extension": ".epub",
+            "kind-of-document": "Electronic publication (EPUB)"
+        },
+        "gz": {
+            "MIME-Type": "application/gzip",
+            "extension": ".gz",
+            "kind-of-document": "GZip Compressed Archive"
+        },
+        "jar": {
+            "MIME-Type": "application/java-archive",
+            "extension": ".jar",
+            "kind-of-document": "Java Archive (JAR)"
+        },
+        "json": {
+            "MIME-Type": "application/json",
+            "extension": ".json",
+            "kind-of-document": "JSON format"
+        },
+        "jsonld": {
+            "MIME-Type": "application/ld+json",
+            "extension": ".jsonld",
+            "kind-of-document": "JSON-LD format"
+        },
+        "mpkg": {
+            "MIME-Type": "application/vnd.apple.installer+xml",
+            "extension": ".mpkg",
+            "kind-of-document": "Apple Installer Package"
+        },
+        "odp": {
+            "MIME-Type": "application/vnd.oasis.opendocument.presentation",
+            "extension": ".odp",
+            "kind-of-document": "OpenDocument presentation document"
+        },
+        "ods": {
+            "MIME-Type": "application/vnd.oasis.opendocument.spreadsheet",
+            "extension": ".ods",
+            "kind-of-document": "OpenDocument spreadsheet document"
+        },
+        "odt": {
+            "MIME-Type": "application/vnd.oasis.opendocument.text",
+            "extension": ".odt",
+            "kind-of-document": "OpenDocument text document"
+        },
+        "ogx": {
+            "MIME-Type": "application/ogg",
+            "extension": ".ogx",
+            "kind-of-document": "OGG"
+        },
+        "pdf": {
+            "MIME-Type": "application/pdf",
+            "extension": ".pdf",
+            "kind-of-document": "Adobe Portable Document Format (PDF)"
+        },
+        "php": {
+            "MIME-Type": "application/x-httpd-php",
+            "extension": ".php",
+            "kind-of-document": "Hypertext Preprocessor (Personal Home Page)"
+        },
+        "ppt": {
+            "MIME-Type": "application/vnd.ms-powerpoint",
+            "extension": ".ppt",
+            "kind-of-document": "Microsoft PowerPoint"
+        },
+        "pptx": {
+            "MIME-Type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "extension": ".pptx",
+            "kind-of-document": "Microsoft PowerPoint (OpenXML)"
+        },
+        "rar": {
+            "MIME-Type": "application/vnd.rar",
+            "extension": ".rar",
+            "kind-of-document": "RAR archive"
+        },
+        "rtf": {
+            "MIME-Type": "application/rtf",
+            "extension": ".rtf",
+            "kind-of-document": "Rich Text Format (RTF)"
+        },
+        "sh": {
+            "MIME-Type": "application/x-sh",
+            "extension": ".sh",
+            "kind-of-document": "Bourne shell script"
+        },
+        "swf": {
+            "MIME-Type": "application/x-shockwave-flash",
+            "extension": ".swf",
+            "kind-of-document": "Small web format (SWF) or Adobe Flash document"
+        },
+        "tar": {
+            "MIME-Type": "application/x-tar",
+            "extension": ".tar",
+            "kind-of-document": "Tape Archive (TAR)"
+        },
+        "vsd": {
+            "MIME-Type": "application/vnd.visio",
+            "extension": ".vsd",
+            "kind-of-document": "Microsoft Visio"
+        },
+        "xhtml": {
+            "MIME-Type": "application/xhtml+xml",
+            "extension": ".xhtml",
+            "kind-of-document": "XHTML"
+        },
+        "xls": {
+            "MIME-Type": "application/vnd.ms-excel",
+            "extension": ".xls",
+            "kind-of-document": "Microsoft Excel"
+        },
+        "xlsx": {
+            "MIME-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "extension": ".xlsx",
+            "kind-of-document": "Microsoft Excel (OpenXML)"
+        },
+        "xml": {
+            "MIME-Type": "application/xml",
+            "extension": ".xml",
+            "kind-of-document": "XML"
+        },
+        "xul": {
+            "MIME-Type": "application/vnd.mozilla.xul+xml",
+            "extension": ".xul",
+            "kind-of-document": "XUL"
+        },
+        "zip": {
+            "MIME-Type": "application/zip",
+            "extension": ".zip",
+            "kind-of-document": "ZIP archive"
+        },
+        "7z": {
+            "MIME-Type": "application/x-7z-compressed",
+            "extension": ".7z",
+            "kind-of-document": "7-zip archive"
+        }
+    },
+    "audio": {
+        "aac": {
+            "MIME-Type": "audio/aac",
+            "extension": ".aac",
+            "kind-of-document": "AAC audio"
+        },
+        "mid": {
+            "MIME-Type": ["audio/midi", "audio/x-midi"],
+            "extension": ".mid",
+            "kind-of-document": "Musical Instrument Digital Interface (MIDI)"
+        },
+        "midi": {
+            "MIME-Type": ["audio/midi", "audio/x-midi"],
+            "extension": ".midi",
+            "kind-of-document": "Musical Instrument Digital Interface (MIDI)"
+        },
+        "mp3": {
+            "MIME-Type": "audio/mpeg",
+            "extension": ".mp3",
+            "kind-of-document": "MP3 audio"
+        },
+        "oga": {
+            "MIME-Type": "audio/ogg",
+            "extension": ".oga",
+            "kind-of-document": "OGG audio"
+        },
+        "opus": {
+            "MIME-Type": "audio/opus",
+            "extension": ".opus",
+            "kind-of-document": "Opus audio"
+        },
+        "wav": {
+            "MIME-Type": "audio/wav",
+            "extension": ".wav",
+            "kind-of-document": "Waveform Audio Format"
+        },
+        "weba": {
+            "MIME-Type": "audio/webm",
+            "extension": ".weba",
+            "kind-of-document": "WEBM audio"
+        },
+        "3gp": {
+            "MIME-Type": "audio/3gpp",
+            "extension": ".3gp",
+            "kind-of-document": "3GPP audio container"
+        },
+        "3g2": {
+            "MIME-Type": "audio/3gpp2",
+            "extension": ".3g2",
+            "kind-of-document": "3GPP2 audio container"
+        }
+    },
+    "font": {
+        "otf": {
+            "MIME-Type": "font/otf",
+            "extension": ".otf",
+            "kind-of-document": "OpenType font"
+        },
+        "ttf": {
+            "MIME-Type": "font/ttf",
+            "extension": ".ttf",
+            "kind-of-document": "TrueType Font"
+        },
+        "woff": {
+            "MIME-Type": "font/woff",
+            "extension": ".woff",
+            "kind-of-document": "Web Open Font Format (WOFF)"
+        },
+        "woff2": {
+            "MIME-Type": "font/woff2",
+            "extension": ".woff2",
+            "kind-of-document": "Web Open Font Format (WOFF)"
+        }
+    },
+    "image": {
+        "bmp": {
+            "MIME-Type": "image/bmp",
+            "extension": ".bmp",
+            "kind-of-document": "Windows OS/2 Bitmap Graphics"
+        },
+        "gif": {
+            "MIME-Type": "image/gif",
+            "extension": ".gif",
+            "kind-of-document": "Graphics Interchange Format (GIF)"
+        },
+        "ico": {
+            "MIME-Type": "image/vnd.microsoft.icon",
+            "extension": ".ico",
+            "kind-of-document": "Icon format"
+        },
+        "jpeg": {
+            "MIME-Type": "image/jpeg",
+            "extension": ".jpeg",
+            "kind-of-document": "JPEG images"
+        },
+        "jpg": {
+            "MIME-Type": "image/jpeg",
+            "extension": ".jpg",
+            "kind-of-document": "JPEG images"
+        },
+        "png": {
+            "MIME-Type": "image/png",
+            "extension": ".png",
+            "kind-of-document": "Portable Network Graphics"
+        },
+        "svg": {
+            "MIME-Type": "image/svg+xml",
+            "extension": ".svg",
+            "kind-of-document": "Scalable Vector Graphics (SVG)"
+        },
+        "tif": {
+            "MIME-Type": "image/tiff",
+            "extension": ".tif",
+            "kind-of-document": "Tagged Image File Format (TIFF)"
+        },
+        "tiff": {
+            "MIME-Type": "image/tiff",
+            "extension": ".tiff",
+            "kind-of-document": "Tagged Image File Format (TIFF)"
+        },
+        "webp": {
+            "MIME-Type": "image/webp",
+            "extension": ".webp",
+            "kind-of-document": "WEBP image"
+        }
+    },
+    "text": {
+        "css": {
+            "MIME-Type": "text/css",
+            "extension": ".css",
+            "kind-of-document": "Cascading Style Sheets (CSS)"
+        },
+        "csv": {
+            "MIME-Type": "text/csv",
+            "extension": ".csv",
+            "kind-of-document": "Comma-separated values (CSV)"
+        },
+        "htm": {
+            "MIME-Type": "text/html",
+            "extension": ".htm",
+            "kind-of-document": "HyperText Markup Language (HTML)"
+        },
+        "html": {
+            "MIME-Type": "text/html",
+            "extension": ".html",
+            "kind-of-document": "HyperText Markup Language (HTML)"
+        },
+        "ics": {
+            "MIME-Type": "text/calendar",
+            "extension": ".ics",
+            "kind-of-document": "iCalendar format"
+        },
+        "js": {
+            "MIME-Type": "text/javascript",
+            "extension": ".js",
+            "kind-of-document": "JavaScript"
+        },
+        "mjs": {
+            "MIME-Type": "text/javascript",
+            "extension": ".mjs",
+            "kind-of-document": "JavaScript module"
+        },
+        "txt": {
+            "MIME-Type": "text/plain",
+            "extension": ".txt",
+            "kind-of-document": "Text, (generally ASCII or ISO 8859-n)"
+        },
+        "xml": {
+            "MIME-Type": "text/xml",
+            "extension": ".xml",
+            "kind-of-document": "XML"
+        }
+    },
+    "video": {
+        "avi": {
+            "MIME-Type": "video/x-msvideo",
+            "extension": ".avi",
+            "kind-of-document": "AVI: Audio Video Interleave"
+        },
+        "mpeg": {
+            "MIME-Type": "video/mpeg",
+            "extension": ".mpeg",
+            "kind-of-document": "MPEG Video"
+        },
+        "ogv": {
+            "MIME-Type": "video/ogg",
+            "extension": ".ogv",
+            "kind-of-document": "OGG video"
+        },
+        "ts": {
+            "MIME-Type": "video/mp2t",
+            "extension": ".ts",
+            "kind-of-document": "MPEG transport stream"
+        },
+        "webm": {
+            "MIME-Type": "video/webm",
+            "extension": ".webm",
+            "kind-of-document": "WEBM video"
+        },
+        "3gp": {
+            "MIME-Type": "video/3gpp",
+            "extension": ".3gp",
+            "kind-of-document": "3GPP video container"
+        },
+        "3g2": {
+            "MIME-Type": "video/3gpp2",
+            "extension": ".3g2",
+            "kind-of-document": "3GPP2 video container"
+        }
+    }
+}
